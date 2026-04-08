@@ -1,1 +1,1 @@
-# Main repository for Full Stack Open course exersizes.
+# Main repository for Full Stack Open course exercises
